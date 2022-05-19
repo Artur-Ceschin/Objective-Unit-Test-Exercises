@@ -41,10 +41,10 @@ It is necessary to have installed on your machine
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Artur-Ceschin/ignews.git
+$ git clone https://github.com/Artur-Ceschin/Objective-Unit-Test-Exercises.git
 
 # Access
-$ cd unit-test
+$ cd onboarding-exercises
 
 # Install dependencies
 $ npm install
