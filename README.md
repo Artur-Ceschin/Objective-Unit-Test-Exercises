@@ -12,10 +12,10 @@
 These are the exercises made during my second week at Objective. They have the goal of practicing unit test.
 
 These are the questions:
-  -Exercise 1 - Multiples of 3 or 5
-  -Exercise 2 - Happy Numbers
-  -Exercise 3 - Words in Numbers
-  -Exercise 4 - Freight Calculation
+  - (Exercise 1 - Multiples of 3 or 5)
+  - (Exercise 2 - Happy Numbers)
+  - (Exercise 3 - Words in Numbers)
+  - (Exercise 4 - Freight Calculation)
 
 ---
 
