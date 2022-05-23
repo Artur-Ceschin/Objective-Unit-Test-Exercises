@@ -1,8 +1,8 @@
 export class User {
-  private name: string
-  private cep: number
+  name: string
+  cep: string
 
-  constructor(name: string, cep: number) {
+  constructor(name: string, cep: string) {
     this.name = name
     this.cep = cep
   }
@@ -11,7 +11,7 @@ export class User {
     return this.name
   }
 
-  getCep(): number {
+  getCep(): string {
     return this.cep
   }
 }
